@@ -1,5 +1,6 @@
 import math
 
+# Fonts
 HELP_TEXT_FONT = ('consolas', 16, '')
 HELP_CONFIRM_BUTTON_FONT = ('consolas', 20, 'bold')
 
